@@ -1,0 +1,86 @@
+2024-06-01 22:06:21.889 [info] Getting Manifest... ms-vscode-remote.remote-containers
+2024-06-01 22:06:21.897 [info] Installing extension: ms-vscode-remote.remote-containers
+2024-06-01 22:06:24.006 [info] Extension signature verification result for ms-vscode-remote.remote-containers: Success. Duration: 1130ms.
+2024-06-01 22:06:24.297 [info] Extracted extension to file:///root/.vscode/extensions/ms-vscode-remote.remote-containers-0.362.0: ms-vscode-remote.remote-containers
+2024-06-01 22:06:24.314 [info] Renamed to /root/.vscode/extensions/ms-vscode-remote.remote-containers-0.362.0
+2024-06-01 22:06:24.319 [info] Extracting extension completed. ms-vscode-remote.remote-containers
+2024-06-01 22:06:24.335 [info] Extension installed successfully: ms-vscode-remote.remote-containers
+2024-06-01 22:06:24.405 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-06-01 22:06:41.849 [info] Getting Manifest... ritwickdey.liveserver
+2024-06-01 22:06:41.856 [info] Installing extension: ritwickdey.liveserver
+2024-06-01 22:06:43.732 [info] Extension signature verification result for ritwickdey.liveserver: Success. Duration: 687ms.
+2024-06-01 22:06:49.591 [info] Extracted extension to file:///root/.vscode/extensions/ritwickdey.liveserver-5.7.9: ritwickdey.liveserver
+2024-06-01 22:06:49.632 [info] Renamed to /root/.vscode/extensions/ritwickdey.liveserver-5.7.9
+2024-06-01 22:06:49.634 [info] Extracting extension completed. ritwickdey.liveserver
+2024-06-01 22:06:49.644 [info] Extension installed successfully: ritwickdey.liveserver
+2024-06-01 22:06:49.716 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-06-02 00:13:49.007 [info] Getting Manifest... steoates.autoimport
+2024-06-02 00:13:49.015 [info] Installing extension: steoates.autoimport
+2024-06-02 00:13:50.562 [info] Extension signature verification result for steoates.autoimport: Success. Duration: 658ms.
+2024-06-02 00:13:50.714 [info] Getting Manifest... formulahendry.auto-rename-tag
+2024-06-02 00:13:50.720 [info] Installing extension: formulahendry.auto-rename-tag
+2024-06-02 00:13:51.664 [info] Getting Manifest... formulahendry.auto-close-tag
+2024-06-02 00:13:51.669 [info] Installing extension: formulahendry.auto-close-tag
+2024-06-02 00:13:52.073 [info] Extension signature verification result for formulahendry.auto-rename-tag: Success. Duration: 579ms.
+2024-06-02 00:13:52.145 [info] Extracted extension to file:///root/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10: formulahendry.auto-rename-tag
+2024-06-02 00:13:52.159 [info] Renamed to /root/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10
+2024-06-02 00:13:52.161 [info] Extracting extension completed. formulahendry.auto-rename-tag
+2024-06-02 00:13:52.176 [info] Extension installed successfully: formulahendry.auto-rename-tag
+2024-06-02 00:13:52.251 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-06-02 00:13:52.397 [info] Extracted extension to file:///root/.vscode/extensions/steoates.autoimport-1.5.4: steoates.autoimport
+2024-06-02 00:13:52.404 [info] Renamed to /root/.vscode/extensions/steoates.autoimport-1.5.4
+2024-06-02 00:13:52.406 [info] Extracting extension completed. steoates.autoimport
+2024-06-02 00:13:52.419 [info] Extension installed successfully: steoates.autoimport
+2024-06-02 00:13:52.486 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-06-02 00:13:52.923 [info] Getting Manifest... formulahendry.auto-complete-tag
+2024-06-02 00:13:52.928 [info] Installing extension: formulahendry.auto-complete-tag
+2024-06-02 00:13:52.984 [info] Extension signature verification result for formulahendry.auto-close-tag: Success. Duration: 572ms.
+2024-06-02 00:13:53.050 [info] Extracted extension to file:///root/.vscode/extensions/formulahendry.auto-close-tag-0.5.15: formulahendry.auto-close-tag
+2024-06-02 00:13:53.107 [info] Renamed to /root/.vscode/extensions/formulahendry.auto-close-tag-0.5.15
+2024-06-02 00:13:53.108 [info] Extracting extension completed. formulahendry.auto-close-tag
+2024-06-02 00:13:53.116 [info] Extension installed successfully: formulahendry.auto-close-tag
+2024-06-02 00:13:53.187 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-06-02 00:13:53.359 [info] Getting Manifest... formulahendry.auto-rename-tag
+2024-06-02 00:13:53.363 [info] Getting Manifest... formulahendry.auto-close-tag
+2024-06-02 00:13:54.449 [info] Extension signature verification result for formulahendry.auto-complete-tag: Success. Duration: 535ms.
+2024-06-02 00:13:54.462 [info] Extracted extension to file:///root/.vscode/extensions/formulahendry.auto-complete-tag-0.1.0: formulahendry.auto-complete-tag
+2024-06-02 00:13:54.468 [info] Renamed to /root/.vscode/extensions/formulahendry.auto-complete-tag-0.1.0
+2024-06-02 00:13:54.471 [info] Extracting extension completed. formulahendry.auto-complete-tag
+2024-06-02 00:13:54.484 [info] Extension installed successfully: formulahendry.auto-complete-tag
+2024-06-02 00:13:54.556 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/snap/code/159/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)

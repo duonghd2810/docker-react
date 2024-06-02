@@ -1,0 +1,14 @@
+2024-06-01 22:05:23.773 [info] Started local extension host with pid 31643.
+2024-06-01 22:05:26.725 [info] [perf] Render performance baseline is 19ms
+2024-06-01 22:05:48.833 [info] Started local extension host with pid 31845.
+2024-06-01 22:05:51.464 [info] [perf] Render performance baseline is 21ms
+2024-06-01 22:08:23.329 [warning] Semantic token with invalid length detected at lineNumber 1, column 11
+2024-06-02 00:13:43.741 [error] Cancelled: Canceled
+    at ee.B (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:24018)
+    at async ee.z (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:20814)
+    at async _ (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:19741)
+    at async ee.query (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:792:20039)
+    at async X.queryGallery (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2477:13663)
+    at async Me.Kc (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2413:23125)
+    at async Me.uc (vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2413:14733)
+    at async vscode-file://vscode-app/snap/code/159/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:2413:13032
